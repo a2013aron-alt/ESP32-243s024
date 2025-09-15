@@ -6,4 +6,10 @@ ESP32-243s024 - очень сложная в настройки микросхе
 <img width="1201" height="687" alt="image" src="https://github.com/user-attachments/assets/21556c9c-4461-49c0-944a-086a17fd2735" />
 переходим в файл > параметры > доп. ссылки для менеджера ссылок (плат)
 <img width="996" height="661" alt="image" src="https://github.com/user-attachments/assets/bba064bc-51a6-4cf0-bafa-7cb8a57f268a" />
-
+добавляем ссылку "https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json" без ковычик, и нажимаем ок
+# настройка библиотек
+качаим архив этого репозития. переходите в папку "библиотеки" , скопируйте оттуда все папки, и положити их в папку по пути : "C:\Users\<"Имя пользователя">\Documents\Arduino\libraries".
+# первая прошивка
+Переходите в папку "тесты", выберети любую из прошивок - тестируйте!
+# уроки
+уроки найдёти в папке "УРОКИ"
